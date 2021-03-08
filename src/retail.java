@@ -1,5 +1,0 @@
-Function Login
-
-Function ShoppingCart
-
-
